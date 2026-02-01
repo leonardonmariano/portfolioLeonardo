@@ -22,7 +22,7 @@ Portfólio pessoal desenvolvido para apresentar meus projetos e habilidades como
 
 - **Email**: leonardonmariano07@gmail.com
 - **LinkedIn**: [Leonardo Nascimento Mariano](https://www.linkedin.com/in/leonardo-nascimento-mariano)
-- **GitHub**: [@Leonardo-ADS-Dev](https://github.com/Leonardo-ADS-Dev)
+- **GitHub**: [@leonardonmariano](https://github.com/leonardonmariano)
 
 ---
 
